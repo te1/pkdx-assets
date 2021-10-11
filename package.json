@@ -1,0 +1,13 @@
+{
+  "name": "pkdx-assets",
+  "private": true,
+  "scripts": {
+    "pokemon:min": "squoosh-cli --oxipng auto pokemon/png --output-dir pokemon/png",
+    "pokemon:webp": "squoosh-cli --webp auto pokemon/png --output-dir pokemon/webp",
+    "pokemon:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon/png --output-dir pokemon/webp-small",
+    "pokemon:all": "npm run pokemon:min && npm run pokemon:webp && npm run pokemon:webp-small"
+  },
+  "devDependencies": {
+    "@squoosh/cli": "^0.7.2"
+  }
+}
