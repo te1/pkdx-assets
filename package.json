@@ -5,9 +5,14 @@
     "pokemon:min": "squoosh-cli --oxipng auto pokemon/png --output-dir pokemon/png",
     "pokemon:webp": "squoosh-cli --webp auto pokemon/png --output-dir pokemon/webp",
     "pokemon:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon/png --output-dir pokemon/webp-small",
-    "pokemon:all": "npm run pokemon:min && npm run pokemon:webp && npm run pokemon:webp-small"
+    "pokemon-home:webp": "squoosh-cli --webp auto pokemon-home/png/regular --output-dir pokemon-home/webp/regular",
+    "pokemon-home:shiny:webp": "squoosh-cli --webp auto pokemon-home/png/shiny --output-dir pokemon-home/webp/shiny",
+    "pokemon-home:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon-home/png/regular --output-dir pokemon-home/webp-small/regular",
+    "pokemon-home:shiny:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon-home/png/shiny --output-dir pokemon-home/webp-small/shiny",
+    "types": "svgo -f types -o types"
   },
   "devDependencies": {
-    "@squoosh/cli": "^0.7.2"
+    "@squoosh/cli": "^0.7.2",
+    "svgo": "^2.7.0"
   }
 }
