@@ -9,8 +9,8 @@
     "pokemon-home:shiny:webp": "squoosh-cli --webp auto pokemon-home/png/shiny --output-dir pokemon-home/webp/shiny",
     "pokemon-home:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon-home/png/regular --output-dir pokemon-home/webp-small/regular",
     "pokemon-home:shiny:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon-home/png/shiny --output-dir pokemon-home/webp-small/shiny",
-    "pokemon-sprite:min": "squoosh-cli --oxipng auto pokemon-sprite/png/regular --output-dir pokemon-sprite/png/regular",
-    "pokemon-sprite:shiny:min": "squoosh-cli --oxipng auto pokemon-sprite/png/shiny --output-dir pokemon-sprite/png/shiny",
+    "pokemon-sprite:min": "squoosh-cli --oxipng auto pokemon-sprite/regular --output-dir pokemon-sprite/regular",
+    "pokemon-sprite:shiny:min": "squoosh-cli --oxipng auto pokemon-sprite/shiny --output-dir pokemon-sprite/shiny",
     "types": "svgo -f types -o types"
   },
   "devDependencies": {
