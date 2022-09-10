@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "**/*.webp": true,
+    "**/*.png": true
+  },
+  "search.exclude": {
+    ".github": true,
+    ".vscode": true,
+    "package-lock.json": true
+  }
+}
