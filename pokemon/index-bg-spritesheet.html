@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    div {
+      background-image: url('webp-small-spritesheet/sprite-pokemon-0.webp');
+      background-repeat: no-repeat;
+      background-size: 1000%;
+      border: 1px solid red;
+      width: 125px;
+      height: 125px;
+      display: inline-block;
+    }
+
+    #sprite1 {
+      background-position: calc((100% / (10 - 1)) * (1 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite2 {
+      background-position: calc((100% / (10 - 1)) * (2 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite3 {
+      background-position: calc((100% / (10 - 1)) * (3 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite4 {
+      background-position: calc((100% / (10 - 1)) * (4 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite5 {
+      background-position: calc((100% / (10 - 1)) * (5 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite6 {
+      background-position: calc((100% / (10 - 1)) * (6 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite7 {
+      background-position: calc((100% / (10 - 1)) * (7 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite8 {
+      background-position: calc((100% / (10 - 1)) * (8 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite9 {
+      background-position: calc((100% / (10 - 1)) * (9 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite10 {
+      background-position: calc((100% / (10 - 1)) * (10 - 1)) calc((100% / (10 - 1)) * (1 - 1));
+    }
+
+    #sprite11 {
+      background-position: calc((100% / (10 - 1)) * (1 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite12 {
+      background-position: calc((100% / (10 - 1)) * (2 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite13 {
+      background-position: calc((100% / (10 - 1)) * (3 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite14 {
+      background-position: calc((100% / (10 - 1)) * (4 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite15 {
+      background-position: calc((100% / (10 - 1)) * (5 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite16 {
+      background-position: calc((100% / (10 - 1)) * (6 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite17 {
+      background-position: calc((100% / (10 - 1)) * (7 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite18 {
+      background-position: calc((100% / (10 - 1)) * (8 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite19 {
+      background-position: calc((100% / (10 - 1)) * (9 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite20 {
+      background-position: calc((100% / (10 - 1)) * (10 - 1)) calc((100% / (10 - 1)) * (2 - 1));
+    }
+
+    #sprite21 {
+      background-position: calc((100% / (10 - 1)) * (1 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite22 {
+      background-position: calc((100% / (10 - 1)) * (2 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite23 {
+      background-position: calc((100% / (10 - 1)) * (3 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite24 {
+      background-position: calc((100% / (10 - 1)) * (4 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite25 {
+      background-position: calc((100% / (10 - 1)) * (5 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite26 {
+      background-position: calc((100% / (10 - 1)) * (6 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite27 {
+      background-position: calc((100% / (10 - 1)) * (7 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite28 {
+      background-position: calc((100% / (10 - 1)) * (8 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite29 {
+      background-position: calc((100% / (10 - 1)) * (9 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+
+    #sprite30 {
+      background-position: calc((100% / (10 - 1)) * (10 - 1)) calc((100% / (10 - 1)) * (10 - 1));
+    }
+  </style>
+</head>
+<body>
+  <div id="sprite1"></div>
+  <div id="sprite2"></div>
+  <div id="sprite3"></div>
+  <div id="sprite4"></div>
+  <div id="sprite5"></div>
+  <div id="sprite6"></div>
+  <div id="sprite7"></div>
+  <div id="sprite8"></div>
+  <div id="sprite9"></div>
+  <div id="sprite10"></div>
+
+  <div id="sprite11"></div>
+  <div id="sprite12"></div>
+  <div id="sprite13"></div>
+  <div id="sprite14"></div>
+  <div id="sprite15"></div>
+  <div id="sprite16"></div>
+  <div id="sprite17"></div>
+  <div id="sprite18"></div>
+  <div id="sprite19"></div>
+  <div id="sprite20"></div>
+
+  <div id="sprite21"></div>
+  <div id="sprite22"></div>
+  <div id="sprite23"></div>
+  <div id="sprite24"></div>
+  <div id="sprite25"></div>
+  <div id="sprite26"></div>
+  <div id="sprite27"></div>
+  <div id="sprite28"></div>
+  <div id="sprite29"></div>
+  <div id="sprite30"></div>
+</body>
+</html>
