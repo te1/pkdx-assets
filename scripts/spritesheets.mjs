@@ -8,6 +8,8 @@ async function build(config = {}) {
   const cssFileName = name + '.css';
 
   async function generateImages() {
+    console.log(`${config.input} -> ${config.output}`);
+
     const border = config.border || 1;
     const width = config.width || 100;
     const jsonFileName = name + '.json';
@@ -22,12 +24,16 @@ async function build(config = {}) {
 
     await fs.emptyDir(config.output);
 
+    console.log('\tgenerating images');
+
     await sharpsheet(config.input, config.output, options);
 
     return await fs.readJSON(path.join(config.output, jsonFileName));
   }
 
   async function generateCss(json) {
+    console.log('\tgenerating css');
+
     const spriteFilePrefix = name + '-';
 
     const classNames = [];
@@ -80,6 +86,8 @@ async function build(config = {}) {
   }
 
   async function generateHtml(classNames) {
+    console.log('\tgenerating html preview');
+
     const html = [];
 
     const size = 125;
@@ -114,6 +122,8 @@ async function build(config = {}) {
     const htmlFileName = name + '.html';
 
     await fs.writeFile(path.join(config.output, htmlFileName), html.join('\n'));
+
+    console.log('');
   }
 
   const json = await generateImages();
@@ -124,6 +134,15 @@ async function build(config = {}) {
 await build({
   input: 'pokemon/webp-small/*.webp',
   output: 'pokemon/webp-small-spritesheet',
+  name: 'sprite-pokemon',
+  border: 1,
+  items: 10,
+  width: 250,
+});
+
+await build({
+  input: 'pokemon-home/webp-small/regular/*.webp',
+  output: 'pokemon-home/webp-small-regular-spritesheet',
   name: 'sprite-pokemon',
   border: 1,
   items: 10,
