@@ -4402,195 +4402,199 @@
   background-image: url(sprite-pokemon-10.webp);
   background-position: 100% 100%;
 }
-.sprite-pokemon-wimpod {
+.sprite-pokemon-wiglett {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 0%;
 }
-.sprite-pokemon-wingull {
+.sprite-pokemon-wimpod {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 11.11111111111111% 0%;
 }
-.sprite-pokemon-wishiwashi-school {
+.sprite-pokemon-wingull {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 22.22222222222222% 0%;
 }
-.sprite-pokemon-wishiwashi-solo {
+.sprite-pokemon-wishiwashi-school {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 33.33333333333333% 0%;
 }
-.sprite-pokemon-wishiwashi {
+.sprite-pokemon-wishiwashi-solo {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 44.44444444444444% 0%;
 }
-.sprite-pokemon-wobbuffet {
+.sprite-pokemon-wishiwashi {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 55.55555555555556% 0%;
 }
-.sprite-pokemon-woobat {
+.sprite-pokemon-wobbuffet {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 66.66666666666666% 0%;
 }
-.sprite-pokemon-wooloo {
+.sprite-pokemon-woobat {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 77.77777777777777% 0%;
 }
-.sprite-pokemon-wooper-paldea {
+.sprite-pokemon-wooloo {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 88.88888888888889% 0%;
 }
-.sprite-pokemon-wooper {
+.sprite-pokemon-wooper-paldea {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 100% 0%;
 }
-.sprite-pokemon-wormadam-plant {
+.sprite-pokemon-wooper {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 11.11111111111111%;
 }
-.sprite-pokemon-wormadam-sandy {
+.sprite-pokemon-wormadam-plant {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 11.11111111111111% 11.11111111111111%;
 }
-.sprite-pokemon-wormadam-trash {
+.sprite-pokemon-wormadam-sandy {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 22.22222222222222% 11.11111111111111%;
 }
-.sprite-pokemon-wurmple {
+.sprite-pokemon-wormadam-trash {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 33.33333333333333% 11.11111111111111%;
 }
-.sprite-pokemon-wynaut {
+.sprite-pokemon-wurmple {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 44.44444444444444% 11.11111111111111%;
 }
-.sprite-pokemon-wyrdeer {
+.sprite-pokemon-wynaut {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 55.55555555555556% 11.11111111111111%;
 }
-.sprite-pokemon-xatu {
+.sprite-pokemon-wyrdeer {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 66.66666666666666% 11.11111111111111%;
 }
-.sprite-pokemon-xerneas {
+.sprite-pokemon-xatu {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 77.77777777777777% 11.11111111111111%;
 }
-.sprite-pokemon-xurkitree {
+.sprite-pokemon-xerneas {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 88.88888888888889% 11.11111111111111%;
 }
-.sprite-pokemon-yamask-galar {
+.sprite-pokemon-xurkitree {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 100% 11.11111111111111%;
 }
-.sprite-pokemon-yamask {
+.sprite-pokemon-yamask-galar {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 22.22222222222222%;
 }
-.sprite-pokemon-yamper {
+.sprite-pokemon-yamask {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 11.11111111111111% 22.22222222222222%;
 }
-.sprite-pokemon-yanma {
+.sprite-pokemon-yamper {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 22.22222222222222% 22.22222222222222%;
 }
-.sprite-pokemon-yanmega {
+.sprite-pokemon-yanma {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 33.33333333333333% 22.22222222222222%;
 }
-.sprite-pokemon-yungoos {
+.sprite-pokemon-yanmega {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 44.44444444444444% 22.22222222222222%;
 }
-.sprite-pokemon-yveltal {
+.sprite-pokemon-yungoos {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 55.55555555555556% 22.22222222222222%;
 }
-.sprite-pokemon-zacian-crowned {
+.sprite-pokemon-yveltal {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 66.66666666666666% 22.22222222222222%;
 }
-.sprite-pokemon-zacian {
+.sprite-pokemon-zacian-crowned {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 77.77777777777777% 22.22222222222222%;
 }
-.sprite-pokemon-zamazenta-crowned {
+.sprite-pokemon-zacian {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 88.88888888888889% 22.22222222222222%;
 }
-.sprite-pokemon-zamazenta {
+.sprite-pokemon-zamazenta-crowned {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 100% 22.22222222222222%;
 }
-.sprite-pokemon-zangoose {
+.sprite-pokemon-zamazenta {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 33.33333333333333%;
 }
-.sprite-pokemon-zapdos-galar {
+.sprite-pokemon-zangoose {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 11.11111111111111% 33.33333333333333%;
 }
-.sprite-pokemon-zapdos {
+.sprite-pokemon-zapdos-galar {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 22.22222222222222% 33.33333333333333%;
 }
-.sprite-pokemon-zarude-dada {
+.sprite-pokemon-zapdos {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 33.33333333333333% 33.33333333333333%;
 }
-.sprite-pokemon-zarude {
+.sprite-pokemon-zarude-dada {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 44.44444444444444% 33.33333333333333%;
 }
-.sprite-pokemon-zebstrika {
+.sprite-pokemon-zarude {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 55.55555555555556% 33.33333333333333%;
 }
-.sprite-pokemon-zekrom {
+.sprite-pokemon-zebstrika {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 66.66666666666666% 33.33333333333333%;
 }
-.sprite-pokemon-zeraora {
+.sprite-pokemon-zekrom {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 77.77777777777777% 33.33333333333333%;
 }
-.sprite-pokemon-zigzagoon-galar {
+.sprite-pokemon-zeraora {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 88.88888888888889% 33.33333333333333%;
 }
-.sprite-pokemon-zigzagoon {
+.sprite-pokemon-zigzagoon-galar {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 100% 33.33333333333333%;
 }
-.sprite-pokemon-zmazenta {
+.sprite-pokemon-zigzagoon {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 44.44444444444444%;
 }
-.sprite-pokemon-zoroark {
+.sprite-pokemon-zmazenta {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 11.11111111111111% 44.44444444444444%;
 }
-.sprite-pokemon-zorua {
+.sprite-pokemon-zoroark {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 22.22222222222222% 44.44444444444444%;
 }
-.sprite-pokemon-zubat {
+.sprite-pokemon-zorua {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 33.33333333333333% 44.44444444444444%;
 }
-.sprite-pokemon-zweilous {
+.sprite-pokemon-zubat {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 44.44444444444444% 44.44444444444444%;
 }
-.sprite-pokemon-zygarde-10percent {
+.sprite-pokemon-zweilous {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 55.55555555555556% 44.44444444444444%;
 }
-.sprite-pokemon-zygarde-complete {
+.sprite-pokemon-zygarde-10percent {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 66.66666666666666% 44.44444444444444%;
 }
-.sprite-pokemon-zygarde {
+.sprite-pokemon-zygarde-complete {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 77.77777777777777% 44.44444444444444%;
+}
+.sprite-pokemon-zygarde {
+  background-image: url(sprite-pokemon-11.webp);
+  background-position: 88.88888888888889% 44.44444444444444%;
 }
