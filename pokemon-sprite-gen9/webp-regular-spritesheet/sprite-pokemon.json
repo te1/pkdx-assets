@@ -1,0 +1,5627 @@
+{
+  "meta": {
+    "type": "sharpsheet",
+    "version": "1",
+    "app": "https://github.com/cpietsch/sharpsheet"
+  },
+  "spritesheets": [
+    {
+      "image": "sprite-2580-0.webp",
+      "sprites": [
+        {
+          "name": "abomasnow",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "alomomola",
+          "position": {
+            "x": 259,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "altaria",
+          "position": {
+            "x": 517,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "amoonguss",
+          "position": {
+            "x": 775,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "ampharos",
+          "position": {
+            "x": 1033,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "appletun",
+          "position": {
+            "x": 1291,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "applin",
+          "position": {
+            "x": 1549,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arcanine-hisui",
+          "position": {
+            "x": 1807,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arcanine",
+          "position": {
+            "x": 2065,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-bug",
+          "position": {
+            "x": 2323,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-dark",
+          "position": {
+            "x": 1,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-dragon",
+          "position": {
+            "x": 259,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-electric",
+          "position": {
+            "x": 517,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-fairy",
+          "position": {
+            "x": 775,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-fighting",
+          "position": {
+            "x": 1033,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-fire",
+          "position": {
+            "x": 1291,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-flying",
+          "position": {
+            "x": 1549,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-ghost",
+          "position": {
+            "x": 1807,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-grass",
+          "position": {
+            "x": 2065,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-ground",
+          "position": {
+            "x": 2323,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-ice",
+          "position": {
+            "x": 1,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-poison",
+          "position": {
+            "x": 259,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-psychic",
+          "position": {
+            "x": 517,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-rock",
+          "position": {
+            "x": 775,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-steel",
+          "position": {
+            "x": 1033,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus-water",
+          "position": {
+            "x": 1291,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arceus",
+          "position": {
+            "x": 1549,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "arrokuda",
+          "position": {
+            "x": 1807,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "articuno-galar",
+          "position": {
+            "x": 2065,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "articuno",
+          "position": {
+            "x": 2323,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "avalugg-hisui",
+          "position": {
+            "x": 1,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "avalugg",
+          "position": {
+            "x": 259,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "axew",
+          "position": {
+            "x": 517,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "azelf",
+          "position": {
+            "x": 775,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "azumarill",
+          "position": {
+            "x": 1033,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "azurill",
+          "position": {
+            "x": 1291,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bagon",
+          "position": {
+            "x": 1549,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "banette",
+          "position": {
+            "x": 1807,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "barboach",
+          "position": {
+            "x": 2065,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "barraskewda",
+          "position": {
+            "x": 2323,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "basculegion-f",
+          "position": {
+            "x": 1,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "basculegion",
+          "position": {
+            "x": 259,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "basculin-blue-striped",
+          "position": {
+            "x": 517,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "basculin-red-striped",
+          "position": {
+            "x": 775,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "basculin-white-striped",
+          "position": {
+            "x": 1033,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "basculin",
+          "position": {
+            "x": 1291,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "beartic",
+          "position": {
+            "x": 1549,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bergmite",
+          "position": {
+            "x": 1807,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bisharp",
+          "position": {
+            "x": 2065,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "blissey",
+          "position": {
+            "x": 2323,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bonsly",
+          "position": {
+            "x": 1,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bounsweet",
+          "position": {
+            "x": 259,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "braixen",
+          "position": {
+            "x": 517,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "braviary-hisui",
+          "position": {
+            "x": 775,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "braviary",
+          "position": {
+            "x": 1033,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "breloom",
+          "position": {
+            "x": 1291,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bronzong",
+          "position": {
+            "x": 1549,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bronzor",
+          "position": {
+            "x": 1807,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "bruxish",
+          "position": {
+            "x": 2065,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "buizel",
+          "position": {
+            "x": 2323,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cacnea",
+          "position": {
+            "x": 1,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cacturne",
+          "position": {
+            "x": 259,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "calyrex-ice",
+          "position": {
+            "x": 517,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "calyrex-shadow",
+          "position": {
+            "x": 775,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "calyrex",
+          "position": {
+            "x": 1033,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "camerupt",
+          "position": {
+            "x": 1291,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "carbink",
+          "position": {
+            "x": 1549,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "carkol",
+          "position": {
+            "x": 1807,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "chansey",
+          "position": {
+            "x": 2065,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "charizard",
+          "position": {
+            "x": 2323,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "charmander",
+          "position": {
+            "x": 1,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "charmeleon",
+          "position": {
+            "x": 259,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "chesnaught",
+          "position": {
+            "x": 517,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "chespin",
+          "position": {
+            "x": 775,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "chewtle",
+          "position": {
+            "x": 1033,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cinderace",
+          "position": {
+            "x": 1291,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "clauncher",
+          "position": {
+            "x": 1549,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "clawitzer",
+          "position": {
+            "x": 1807,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cloyster",
+          "position": {
+            "x": 2065,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "coalossal",
+          "position": {
+            "x": 2323,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "combee",
+          "position": {
+            "x": 1,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "copperajah",
+          "position": {
+            "x": 259,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "corviknight",
+          "position": {
+            "x": 517,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "corvisquire",
+          "position": {
+            "x": 775,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "crabominable",
+          "position": {
+            "x": 1033,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "crabrawler",
+          "position": {
+            "x": 1291,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cresselia",
+          "position": {
+            "x": 1549,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "croagunk",
+          "position": {
+            "x": 1807,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cryogonal",
+          "position": {
+            "x": 2065,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cubchoo",
+          "position": {
+            "x": 2323,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cufant",
+          "position": {
+            "x": 1,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "cyndaquil",
+          "position": {
+            "x": 259,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dartrix",
+          "position": {
+            "x": 517,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "decidueye-hisui",
+          "position": {
+            "x": 775,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "decidueye",
+          "position": {
+            "x": 1033,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dedenne",
+          "position": {
+            "x": 1291,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "deerling-autumn",
+          "position": {
+            "x": 1549,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "deerling-spring",
+          "position": {
+            "x": 1807,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "deerling-summer",
+          "position": {
+            "x": 2065,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "deerling-winter",
+          "position": {
+            "x": 2323,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-2580-1.webp",
+      "sprites": [
+        {
+          "name": "deino",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "delibird",
+          "position": {
+            "x": 259,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "delphox",
+          "position": {
+            "x": 517,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dewott",
+          "position": {
+            "x": 775,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dialga-origin",
+          "position": {
+            "x": 1033,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dialga",
+          "position": {
+            "x": 1291,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "diancie",
+          "position": {
+            "x": 1549,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "diglett-alola",
+          "position": {
+            "x": 1807,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "diglett",
+          "position": {
+            "x": 2065,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "ditto",
+          "position": {
+            "x": 2323,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "donphan",
+          "position": {
+            "x": 1,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dragalge",
+          "position": {
+            "x": 259,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dragapult",
+          "position": {
+            "x": 517,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dragonair",
+          "position": {
+            "x": 775,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dragonite",
+          "position": {
+            "x": 1033,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "drakloak",
+          "position": {
+            "x": 1291,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dratini",
+          "position": {
+            "x": 1549,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "drednaw",
+          "position": {
+            "x": 1807,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dreepy",
+          "position": {
+            "x": 2065,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "drifblim",
+          "position": {
+            "x": 2323,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "drifloon",
+          "position": {
+            "x": 1,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "drizzile",
+          "position": {
+            "x": 259,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "drowzee",
+          "position": {
+            "x": 517,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dugtrio-alola",
+          "position": {
+            "x": 775,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dugtrio",
+          "position": {
+            "x": 1033,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "dunsparce",
+          "position": {
+            "x": 1291,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "eelektrik",
+          "position": {
+            "x": 1549,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "eelektross",
+          "position": {
+            "x": 1807,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "eevee",
+          "position": {
+            "x": 2065,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "eiscue-noice",
+          "position": {
+            "x": 2323,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "eiscue",
+          "position": {
+            "x": 1,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "electrode-hisui",
+          "position": {
+            "x": 259,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "electrode",
+          "position": {
+            "x": 517,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "enamorus-therian",
+          "position": {
+            "x": 775,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "enamorus",
+          "position": {
+            "x": 1033,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "espeon",
+          "position": {
+            "x": 1291,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "eternatus",
+          "position": {
+            "x": 1549,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "falinks",
+          "position": {
+            "x": 1807,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "fennekin",
+          "position": {
+            "x": 2065,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "finneon",
+          "position": {
+            "x": 2323,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flaaffy",
+          "position": {
+            "x": 1,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flabébé-blue",
+          "position": {
+            "x": 259,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flabébé-orange",
+          "position": {
+            "x": 517,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flabébé-red",
+          "position": {
+            "x": 775,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flabébé-white",
+          "position": {
+            "x": 1033,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flabébé-yellow",
+          "position": {
+            "x": 1291,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flabébé",
+          "position": {
+            "x": 1549,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flapple",
+          "position": {
+            "x": 1807,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "flareon",
+          "position": {
+            "x": 2065,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "fletchinder",
+          "position": {
+            "x": 2323,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "fletchling",
+          "position": {
+            "x": 1,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floatzel",
+          "position": {
+            "x": 259,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floette-blue",
+          "position": {
+            "x": 517,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floette-orange",
+          "position": {
+            "x": 775,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floette-red",
+          "position": {
+            "x": 1033,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floette-white",
+          "position": {
+            "x": 1291,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floette-yellow",
+          "position": {
+            "x": 1549,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "floette",
+          "position": {
+            "x": 1807,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "florges-blue",
+          "position": {
+            "x": 2065,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "florges-orange",
+          "position": {
+            "x": 2323,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "florges-red",
+          "position": {
+            "x": 1,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "florges-white",
+          "position": {
+            "x": 259,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "florges-yellow",
+          "position": {
+            "x": 517,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "florges",
+          "position": {
+            "x": 775,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "fomantis",
+          "position": {
+            "x": 1033,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "foongus",
+          "position": {
+            "x": 1291,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "forretress",
+          "position": {
+            "x": 1549,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "fraxure",
+          "position": {
+            "x": 1807,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "froakie",
+          "position": {
+            "x": 2065,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "frogadier",
+          "position": {
+            "x": 2323,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "froslass",
+          "position": {
+            "x": 1,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "frosmoth",
+          "position": {
+            "x": 259,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gabite",
+          "position": {
+            "x": 517,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gallade",
+          "position": {
+            "x": 775,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "garchomp",
+          "position": {
+            "x": 1033,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gardevoir",
+          "position": {
+            "x": 1291,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gastly",
+          "position": {
+            "x": 1549,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gastrodon-east",
+          "position": {
+            "x": 1807,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gastrodon-west",
+          "position": {
+            "x": 2065,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gastrodon",
+          "position": {
+            "x": 2323,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gengar",
+          "position": {
+            "x": 1,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gible",
+          "position": {
+            "x": 259,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "girafarig",
+          "position": {
+            "x": 517,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "giratina-altered",
+          "position": {
+            "x": 775,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "giratina-origin",
+          "position": {
+            "x": 1033,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "glaceon",
+          "position": {
+            "x": 1291,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "glalie",
+          "position": {
+            "x": 1549,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "glastrier",
+          "position": {
+            "x": 1807,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gogoat",
+          "position": {
+            "x": 2065,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "golduck",
+          "position": {
+            "x": 2323,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "goodra-hisui",
+          "position": {
+            "x": 1,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "goodra",
+          "position": {
+            "x": 259,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "goomy",
+          "position": {
+            "x": 517,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gothita",
+          "position": {
+            "x": 775,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gothitelle",
+          "position": {
+            "x": 1033,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gothorita",
+          "position": {
+            "x": 1291,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "greedent",
+          "position": {
+            "x": 1549,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "greninja",
+          "position": {
+            "x": 1807,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "grimer-alola",
+          "position": {
+            "x": 2065,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "grimer",
+          "position": {
+            "x": 2323,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-2580-2.webp",
+      "sprites": [
+        {
+          "name": "grimmsnarl",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "grookey",
+          "position": {
+            "x": 259,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "groudon",
+          "position": {
+            "x": 517,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "growlithe-hisui",
+          "position": {
+            "x": 775,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "growlithe",
+          "position": {
+            "x": 1033,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "grumpig",
+          "position": {
+            "x": 1291,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gulpin",
+          "position": {
+            "x": 1549,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gumshoos",
+          "position": {
+            "x": 1807,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "gyarados",
+          "position": {
+            "x": 2065,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "happiny",
+          "position": {
+            "x": 2323,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hariyama",
+          "position": {
+            "x": 1,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hatenna",
+          "position": {
+            "x": 259,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hatterene",
+          "position": {
+            "x": 517,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hattrem",
+          "position": {
+            "x": 775,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "haunter",
+          "position": {
+            "x": 1033,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hawlucha",
+          "position": {
+            "x": 1291,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "haxorus",
+          "position": {
+            "x": 1549,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "heatran",
+          "position": {
+            "x": 1807,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "heracross",
+          "position": {
+            "x": 2065,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hippopotas",
+          "position": {
+            "x": 2323,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hippowdon",
+          "position": {
+            "x": 1,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "honchkrow",
+          "position": {
+            "x": 259,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hoopa-unbound",
+          "position": {
+            "x": 517,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hoopa",
+          "position": {
+            "x": 775,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hoppip",
+          "position": {
+            "x": 1033,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "houndoom",
+          "position": {
+            "x": 1291,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "houndour",
+          "position": {
+            "x": 1549,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hydreigon",
+          "position": {
+            "x": 1807,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "hypno",
+          "position": {
+            "x": 2065,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "igglybuff",
+          "position": {
+            "x": 2323,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "impidimp",
+          "position": {
+            "x": 1,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "indeedee",
+          "position": {
+            "x": 259,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "inteleon",
+          "position": {
+            "x": 517,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "jigglypuff",
+          "position": {
+            "x": 775,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "jolteon",
+          "position": {
+            "x": 1033,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "jumpluff",
+          "position": {
+            "x": 1291,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "kirlia",
+          "position": {
+            "x": 1549,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "kleavor",
+          "position": {
+            "x": 1807,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "klefki",
+          "position": {
+            "x": 2065,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "komala",
+          "position": {
+            "x": 2323,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "kricketot",
+          "position": {
+            "x": 1,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "kricketune",
+          "position": {
+            "x": 259,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "krokorok",
+          "position": {
+            "x": 517,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "krookodile",
+          "position": {
+            "x": 775,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "kubfu",
+          "position": {
+            "x": 1033,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "kyogre",
+          "position": {
+            "x": 1291,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "landorus-therian",
+          "position": {
+            "x": 1549,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "landorus",
+          "position": {
+            "x": 1807,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "larvesta",
+          "position": {
+            "x": 2065,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "larvitar",
+          "position": {
+            "x": 2323,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "leafeon",
+          "position": {
+            "x": 1,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lilligant-hisui",
+          "position": {
+            "x": 259,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lilligant",
+          "position": {
+            "x": 517,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "litleo",
+          "position": {
+            "x": 775,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lucario",
+          "position": {
+            "x": 1033,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lumineon",
+          "position": {
+            "x": 1291,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lurantis",
+          "position": {
+            "x": 1549,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "luvdisc",
+          "position": {
+            "x": 1807,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "luxio",
+          "position": {
+            "x": 2065,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "luxray",
+          "position": {
+            "x": 2323,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lycanroc-dusk",
+          "position": {
+            "x": 1,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lycanroc-midnight",
+          "position": {
+            "x": 259,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "lycanroc",
+          "position": {
+            "x": 517,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "magearna-original",
+          "position": {
+            "x": 775,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "magearna",
+          "position": {
+            "x": 1033,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "magikarp",
+          "position": {
+            "x": 1291,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "magnemite",
+          "position": {
+            "x": 1549,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "magneton",
+          "position": {
+            "x": 1807,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "magnezone",
+          "position": {
+            "x": 2065,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "makuhita",
+          "position": {
+            "x": 2323,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mankey",
+          "position": {
+            "x": 1,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mareanie",
+          "position": {
+            "x": 259,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mareep",
+          "position": {
+            "x": 517,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "marill",
+          "position": {
+            "x": 775,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "masquerain",
+          "position": {
+            "x": 1033,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "medicham",
+          "position": {
+            "x": 1291,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "meditite",
+          "position": {
+            "x": 1549,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "meloetta-pirouette",
+          "position": {
+            "x": 1807,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "meloetta",
+          "position": {
+            "x": 2065,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "meowth-alola",
+          "position": {
+            "x": 2323,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "meowth-galar",
+          "position": {
+            "x": 1,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "meowth",
+          "position": {
+            "x": 259,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mesprit",
+          "position": {
+            "x": 517,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mew",
+          "position": {
+            "x": 775,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mewtwo",
+          "position": {
+            "x": 1033,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mimikyu",
+          "position": {
+            "x": 1291,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "misdreavus",
+          "position": {
+            "x": 1549,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mismagius",
+          "position": {
+            "x": 1807,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "moltres-galar",
+          "position": {
+            "x": 2065,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "moltres",
+          "position": {
+            "x": 2323,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "morgrem",
+          "position": {
+            "x": 1,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mudbray",
+          "position": {
+            "x": 259,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "mudsdale",
+          "position": {
+            "x": 517,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "muk-alola",
+          "position": {
+            "x": 775,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "muk",
+          "position": {
+            "x": 1033,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "murkrow",
+          "position": {
+            "x": 1291,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "noibat",
+          "position": {
+            "x": 1549,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "noivern",
+          "position": {
+            "x": 1807,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "numel",
+          "position": {
+            "x": 2065,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "oranguru",
+          "position": {
+            "x": 2323,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-2580-3.webp",
+      "sprites": [
+        {
+          "name": "oricorio-baile",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "oricorio-pau",
+          "position": {
+            "x": 259,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "oricorio-pom-pom",
+          "position": {
+            "x": 517,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "oricorio-sensu",
+          "position": {
+            "x": 775,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "oshawott",
+          "position": {
+            "x": 1033,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "overqwil",
+          "position": {
+            "x": 1291,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pachirisu",
+          "position": {
+            "x": 1549,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "palkia-origin",
+          "position": {
+            "x": 1807,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "palkia",
+          "position": {
+            "x": 2065,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "palossand",
+          "position": {
+            "x": 2323,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "passimian",
+          "position": {
+            "x": 1,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pawniard",
+          "position": {
+            "x": 259,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pelipper",
+          "position": {
+            "x": 517,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "perrserker",
+          "position": {
+            "x": 775,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "persian-alola",
+          "position": {
+            "x": 1033,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "persian",
+          "position": {
+            "x": 1291,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "petilil",
+          "position": {
+            "x": 1549,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "phanpy",
+          "position": {
+            "x": 1807,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pichu",
+          "position": {
+            "x": 2065,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-alola",
+          "position": {
+            "x": 2323,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-hoenn",
+          "position": {
+            "x": 1,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-kalos",
+          "position": {
+            "x": 259,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-original",
+          "position": {
+            "x": 517,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-paldea",
+          "position": {
+            "x": 775,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-partner",
+          "position": {
+            "x": 1033,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-sinnoh",
+          "position": {
+            "x": 1291,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu-unova",
+          "position": {
+            "x": 1549,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pikachu",
+          "position": {
+            "x": 1807,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pincurchin",
+          "position": {
+            "x": 2065,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pineco",
+          "position": {
+            "x": 2323,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "polteageist-antique",
+          "position": {
+            "x": 1,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "polteageist",
+          "position": {
+            "x": 259,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "primeape",
+          "position": {
+            "x": 517,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "psyduck",
+          "position": {
+            "x": 775,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pupitar",
+          "position": {
+            "x": 1033,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "pyroar",
+          "position": {
+            "x": 1291,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "quilava",
+          "position": {
+            "x": 1549,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "quilladin",
+          "position": {
+            "x": 1807,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "qwilfish-hisui",
+          "position": {
+            "x": 2065,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "qwilfish",
+          "position": {
+            "x": 2323,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "raboot",
+          "position": {
+            "x": 1,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "raichu-alola",
+          "position": {
+            "x": 259,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "raichu",
+          "position": {
+            "x": 517,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "ralts",
+          "position": {
+            "x": 775,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rayquaza",
+          "position": {
+            "x": 1033,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "regidrago",
+          "position": {
+            "x": 1291,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "regieleki",
+          "position": {
+            "x": 1549,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rillaboom",
+          "position": {
+            "x": 1807,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "riolu",
+          "position": {
+            "x": 2065,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rockruff",
+          "position": {
+            "x": 2323,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rolycoly",
+          "position": {
+            "x": 1,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rookidee",
+          "position": {
+            "x": 259,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rotom-fan",
+          "position": {
+            "x": 517,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rotom-frost",
+          "position": {
+            "x": 775,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rotom-heat",
+          "position": {
+            "x": 1033,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rotom-mow",
+          "position": {
+            "x": 1291,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rotom-wash",
+          "position": {
+            "x": 1549,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rotom",
+          "position": {
+            "x": 1807,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rowlet",
+          "position": {
+            "x": 2065,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "rufflet",
+          "position": {
+            "x": 2323,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sableye",
+          "position": {
+            "x": 1,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "salamence",
+          "position": {
+            "x": 259,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "salandit",
+          "position": {
+            "x": 517,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "salazzle",
+          "position": {
+            "x": 775,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "samurott-hisui",
+          "position": {
+            "x": 1033,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "samurott",
+          "position": {
+            "x": 1291,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sandaconda",
+          "position": {
+            "x": 1549,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sandile",
+          "position": {
+            "x": 1807,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sandygast",
+          "position": {
+            "x": 2065,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sawsbuck-autumn",
+          "position": {
+            "x": 2323,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sawsbuck-spring",
+          "position": {
+            "x": 1,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sawsbuck-summer",
+          "position": {
+            "x": 259,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sawsbuck-winter",
+          "position": {
+            "x": 517,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "scatterbug",
+          "position": {
+            "x": 775,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "scizor",
+          "position": {
+            "x": 1033,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "scorbunny",
+          "position": {
+            "x": 1291,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "scyther",
+          "position": {
+            "x": 1549,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "seviper",
+          "position": {
+            "x": 1807,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shelgon",
+          "position": {
+            "x": 2065,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shellder",
+          "position": {
+            "x": 2323,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shellos-east",
+          "position": {
+            "x": 1,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shellos-west",
+          "position": {
+            "x": 259,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shellos",
+          "position": {
+            "x": 517,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shinx",
+          "position": {
+            "x": 775,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shroomish",
+          "position": {
+            "x": 1033,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "shuppet",
+          "position": {
+            "x": 1291,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "silicobra",
+          "position": {
+            "x": 1549,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sinistea-antique",
+          "position": {
+            "x": 1807,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sinistea",
+          "position": {
+            "x": 2065,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "skiddo",
+          "position": {
+            "x": 2323,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "skiploom",
+          "position": {
+            "x": 1,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "skrelp",
+          "position": {
+            "x": 259,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "skuntank",
+          "position": {
+            "x": 517,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "skwovet",
+          "position": {
+            "x": 775,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slaking",
+          "position": {
+            "x": 1033,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slakoth",
+          "position": {
+            "x": 1291,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sliggoo-hisui",
+          "position": {
+            "x": 1549,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sliggoo",
+          "position": {
+            "x": 1807,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slowbro-galar",
+          "position": {
+            "x": 2065,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slowbro",
+          "position": {
+            "x": 2323,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-2580-4.webp",
+      "sprites": [
+        {
+          "name": "slowking-galar",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slowking",
+          "position": {
+            "x": 259,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slowpoke-galar",
+          "position": {
+            "x": 517,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "slowpoke",
+          "position": {
+            "x": 775,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sneasel-hisui",
+          "position": {
+            "x": 1033,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sneasel",
+          "position": {
+            "x": 1291,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sneasler",
+          "position": {
+            "x": 1549,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "snom",
+          "position": {
+            "x": 1807,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "snorunt",
+          "position": {
+            "x": 2065,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "snover",
+          "position": {
+            "x": 2323,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sobble",
+          "position": {
+            "x": 1,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "spectrier",
+          "position": {
+            "x": 259,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "spewpa",
+          "position": {
+            "x": 517,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "spiritomb",
+          "position": {
+            "x": 775,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "spoink",
+          "position": {
+            "x": 1033,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "stantler",
+          "position": {
+            "x": 1291,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "staraptor",
+          "position": {
+            "x": 1549,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "staravia",
+          "position": {
+            "x": 1807,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "starly",
+          "position": {
+            "x": 2065,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "steenee",
+          "position": {
+            "x": 2323,
+            "y": 259
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "stonjourner",
+          "position": {
+            "x": 1,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "stunky",
+          "position": {
+            "x": 259,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sudowoodo",
+          "position": {
+            "x": 517,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sunflora",
+          "position": {
+            "x": 775,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sunkern",
+          "position": {
+            "x": 1033,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "surskit",
+          "position": {
+            "x": 1291,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "swablu",
+          "position": {
+            "x": 1549,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "swalot",
+          "position": {
+            "x": 1807,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "sylveon",
+          "position": {
+            "x": 2065,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "talonflame",
+          "position": {
+            "x": 2323,
+            "y": 517
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tauros",
+          "position": {
+            "x": 1,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "teddiursa",
+          "position": {
+            "x": 259,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "thundurus-therian",
+          "position": {
+            "x": 517,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "thundurus",
+          "position": {
+            "x": 775,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "thwackey",
+          "position": {
+            "x": 1033,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "torkoal",
+          "position": {
+            "x": 1291,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tornadus-therian",
+          "position": {
+            "x": 1549,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tornadus",
+          "position": {
+            "x": 1807,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "toxapex",
+          "position": {
+            "x": 2065,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "toxel",
+          "position": {
+            "x": 2323,
+            "y": 775
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "toxicroak",
+          "position": {
+            "x": 1,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "toxtricity-amped",
+          "position": {
+            "x": 259,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "toxtricity-low-key",
+          "position": {
+            "x": 517,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "toxtricity",
+          "position": {
+            "x": 775,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tropius",
+          "position": {
+            "x": 1033,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tsareena",
+          "position": {
+            "x": 1291,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tynamo",
+          "position": {
+            "x": 1549,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "typhlosion-hisui",
+          "position": {
+            "x": 1807,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "typhlosion",
+          "position": {
+            "x": 2065,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "tyranitar",
+          "position": {
+            "x": 2323,
+            "y": 1033
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "umbreon",
+          "position": {
+            "x": 1,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "ursaluna",
+          "position": {
+            "x": 259,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "ursaring",
+          "position": {
+            "x": 517,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "urshifu",
+          "position": {
+            "x": 775,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "uxie",
+          "position": {
+            "x": 1033,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vaporeon",
+          "position": {
+            "x": 1291,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "venomoth",
+          "position": {
+            "x": 1549,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "venonat",
+          "position": {
+            "x": 1807,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vespiquen",
+          "position": {
+            "x": 2065,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vigoroth",
+          "position": {
+            "x": 2323,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-archipelago",
+          "position": {
+            "x": 1,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-continental",
+          "position": {
+            "x": 259,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-elegant",
+          "position": {
+            "x": 517,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-fancy",
+          "position": {
+            "x": 775,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-garden",
+          "position": {
+            "x": 1033,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-highplains",
+          "position": {
+            "x": 1291,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-icysnow",
+          "position": {
+            "x": 1549,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-jungle",
+          "position": {
+            "x": 1807,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-maedow",
+          "position": {
+            "x": 2065,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-marine",
+          "position": {
+            "x": 2323,
+            "y": 1549
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-modern",
+          "position": {
+            "x": 1,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-monsoon",
+          "position": {
+            "x": 259,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-ocean",
+          "position": {
+            "x": 517,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-pokeball",
+          "position": {
+            "x": 775,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-polar",
+          "position": {
+            "x": 1033,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-river",
+          "position": {
+            "x": 1291,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-sandstorm",
+          "position": {
+            "x": 1549,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-savanna",
+          "position": {
+            "x": 1807,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-sun",
+          "position": {
+            "x": 2065,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-tundra",
+          "position": {
+            "x": 2323,
+            "y": 1807
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon",
+          "position": {
+            "x": 1,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "volcanion",
+          "position": {
+            "x": 259,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "volcarona",
+          "position": {
+            "x": 517,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "voltorb-hisui",
+          "position": {
+            "x": 775,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "voltorb",
+          "position": {
+            "x": 1033,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "weavile",
+          "position": {
+            "x": 1291,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "whiscash",
+          "position": {
+            "x": 1549,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "wigglytuff",
+          "position": {
+            "x": 1807,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "wingull",
+          "position": {
+            "x": 2065,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "wobbuffet",
+          "position": {
+            "x": 2323,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "wooper-paldea",
+          "position": {
+            "x": 1,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "wooper",
+          "position": {
+            "x": 259,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "wyrdeer",
+          "position": {
+            "x": 517,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "yungoos",
+          "position": {
+            "x": 775,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zacian-crowned",
+          "position": {
+            "x": 1033,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zacian",
+          "position": {
+            "x": 1291,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zamazenta-crowned",
+          "position": {
+            "x": 1549,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zamazenta",
+          "position": {
+            "x": 1807,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zangoose",
+          "position": {
+            "x": 2065,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zapdos-galar",
+          "position": {
+            "x": 2323,
+            "y": 2323
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-2580-5.webp",
+      "sprites": [
+        {
+          "name": "zapdos",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zarude-dada",
+          "position": {
+            "x": 259,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zarude",
+          "position": {
+            "x": 517,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zoroark-hisui",
+          "position": {
+            "x": 775,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zoroark",
+          "position": {
+            "x": 1033,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zorua-hisui",
+          "position": {
+            "x": 1291,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zorua",
+          "position": {
+            "x": 1549,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zweilous",
+          "position": {
+            "x": 1807,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        }
+      ]
+    }
+  ]
+}
