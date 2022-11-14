@@ -148,3 +148,12 @@ await build({
   items: 10,
   width: 250,
 });
+
+await build({
+  input: 'pokemon-sprite-gen9/webp/regular/*.webp',
+  output: 'pokemon-sprite-gen9/webp-regular-spritesheet',
+  name: 'sprite-pokemon',
+  border: 1,
+  items: 10,
+  width: 256,
+});

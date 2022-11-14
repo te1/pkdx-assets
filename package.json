@@ -11,6 +11,8 @@
     "pokemon-home:shiny:webp-small": "squoosh-cli --resize {height:250} --webp auto pokemon-home/png/shiny --output-dir pokemon-home/webp-small/shiny",
     "pokemon-sprite:min": "squoosh-cli --oxipng auto pokemon-sprite/regular --output-dir pokemon-sprite/regular",
     "pokemon-sprite:shiny:min": "squoosh-cli --oxipng auto pokemon-sprite/shiny --output-dir pokemon-sprite/shiny",
+    "pokemon-sprite-gen9:min": "squoosh-cli --oxipng auto pokemon-sprite-gen9/png/regular --output-dir pokemon-sprite-gen9/png/regular",
+    "pokemon-sprite-gen9:webp": "squoosh-cli --webp auto pokemon-sprite-gen9/png/regular --output-dir pokemon-sprite-gen9/webp/regular",
     "spritesheets": "node scripts/spritesheets.mjs",
     "types": "svgo -f types/gen8-swsh/svg -o types/gen8-swsh/svg"
   },
