@@ -17,7 +17,7 @@
     "types": "svgo -f types/gen8-swsh/svg -o types/gen8-swsh/svg"
   },
   "devDependencies": {
-    "@squoosh/cli": "^0.7.2",
+    "@squoosh/cli": "^0.7.3",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
