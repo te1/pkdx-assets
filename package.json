@@ -18,7 +18,9 @@
     "pokemon-sprite-gen9:webp": "squoosh-cli --webp auto pokemon-sprite-gen9/png/regular --output-dir pokemon-sprite-gen9/webp/regular",
     "spritesheets": "node scripts/spritesheets.mjs",
     "types:8": "svgo -f types/gen8 -o types/gen8",
-    "types:9": "svgo -f types/gen9 -o types/gen9"
+    "types:9": "svgo -f types/gen9 -o types/gen9",
+    "types:effectiveness": "svgo -f types/effectiveness -o types/effectiveness",
+    "types:categories": "svgo -f types/categories -o types/categories"
   },
   "devDependencies": {
     "@squoosh/cli": "^0.7.3",
