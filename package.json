@@ -1,6 +1,9 @@
 {
   "name": "pkdx-assets",
   "private": true,
+  "engines": {
+    "node": "<16"
+  },
   "scripts": {
     "pokemon:min": "squoosh-cli --oxipng auto pokemon/png --output-dir pokemon/png",
     "pokemon:webp": "squoosh-cli --webp auto pokemon/png --output-dir pokemon/webp",
