@@ -17,7 +17,8 @@
     "pokemon-sprite-gen9:min": "squoosh-cli --oxipng auto pokemon-sprite-gen9/png/regular --output-dir pokemon-sprite-gen9/png/regular",
     "pokemon-sprite-gen9:webp": "squoosh-cli --webp auto pokemon-sprite-gen9/png/regular --output-dir pokemon-sprite-gen9/webp/regular",
     "spritesheets": "node scripts/spritesheets.mjs",
-    "types": "svgo -f types/gen8-swsh/svg -o types/gen8-swsh/svg"
+    "types:8": "svgo -f types/gen8 -o types/gen8",
+    "types:9": "svgo -f types/gen9 -o types/gen9"
   },
   "devDependencies": {
     "@squoosh/cli": "^0.7.3",
