@@ -1,7 +1,3 @@
 module.exports = {
-  extends: [
-    // 'eslint:recommended',
-    'standard',
-    'prettier',
-  ],
+  extends: ['eslint:recommended', 'standard', 'prettier'],
 };
