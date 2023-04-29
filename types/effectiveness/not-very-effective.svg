@@ -1,6 +1,1 @@
-<svg viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(0 2)">
-<path d="M14 11L18.3301 18.5H9.66987L14 11Z"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M14 0L0.143594 24H27.8564L14 0ZM14 6L5.33975 21H22.6603L14 6Z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="m14 13 4.33 7.5H9.67L14 13Z"/><path fill-rule="evenodd" d="M14 2 .144 26h27.712L14 2Zm0 6L5.34 23h17.32L14 8Z" clip-rule="evenodd"/></svg>
