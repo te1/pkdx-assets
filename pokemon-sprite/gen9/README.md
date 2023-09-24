@@ -1,0 +1,3 @@
+- [SV] Texture Asset Dump > Icons Pokemon
+- Version 2.0.1 from 2023-09-15
+- https://twitter.com/mattyoukhana_/status/1702799273446756595

@@ -1,0 +1,1 @@
+- https://github.com/msikma/pokesprite/tree/master/pokemon-gen8
