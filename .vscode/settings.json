@@ -7,6 +7,7 @@
   "search.exclude": {
     ".github": true,
     ".vscode": true,
-    "package-lock.json": true
+    "package-lock.json": true,
+    "pnpm-lock.yaml": true
   }
 }
