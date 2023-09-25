@@ -202,7 +202,7 @@
   background-image: url(sprite-pokemon-0.webp);
   background-position: 100% 44.44444444444444%;
 }
-.sprite-pokemon-basculin-blue-striped {
+.sprite-pokemon-basculin-bluestriped {
   background-image: url(sprite-pokemon-0.webp);
   background-position: 0% 55.55555555555556%;
 }
@@ -210,7 +210,7 @@
   background-image: url(sprite-pokemon-0.webp);
   background-position: 11.11111111111111% 55.55555555555556%;
 }
-.sprite-pokemon-basculin-white-striped {
+.sprite-pokemon-basculin-whitestriped {
   background-image: url(sprite-pokemon-0.webp);
   background-position: 22.22222222222222% 55.55555555555556%;
 }
@@ -802,27 +802,27 @@
   background-image: url(sprite-pokemon-1.webp);
   background-position: 100% 100%;
 }
-.sprite-pokemon-flabébé-blue {
+.sprite-pokemon-flabebe-blue {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 0% 0%;
 }
-.sprite-pokemon-flabébé-orange {
+.sprite-pokemon-flabebe-orange {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 11.11111111111111% 0%;
 }
-.sprite-pokemon-flabébé-red {
+.sprite-pokemon-flabebe-red {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 22.22222222222222% 0%;
 }
-.sprite-pokemon-flabébé-white {
+.sprite-pokemon-flabebe-white {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 33.33333333333333% 0%;
 }
-.sprite-pokemon-flabébé-yellow {
+.sprite-pokemon-flabebe-yellow {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 44.44444444444444% 0%;
 }
-.sprite-pokemon-flabébé {
+.sprite-pokemon-flabebe {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 55.55555555555556% 0%;
 }
@@ -2678,7 +2678,7 @@
   background-image: url(sprite-pokemon-6.webp);
   background-position: 88.88888888888889% 66.66666666666666%;
 }
-.sprite-pokemon-toxtricity-low-key {
+.sprite-pokemon-toxtricity-lowkey {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 100% 66.66666666666666%;
 }
@@ -2734,7 +2734,7 @@
   background-image: url(sprite-pokemon-6.webp);
   background-position: 22.22222222222222% 88.88888888888889%;
 }
-.sprite-pokemon-urshifu-rapid-strike {
+.sprite-pokemon-urshifu-rapidstrike {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 33.33333333333333% 88.88888888888889%;
 }

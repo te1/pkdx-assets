@@ -207,7 +207,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-berry",
+          "name": "alcremie-caramelswirl-berry",
           "position": {
             "x": 2017,
             "y": 253
@@ -218,7 +218,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-clover",
+          "name": "alcremie-caramelswirl-clover",
           "position": {
             "x": 2269,
             "y": 253
@@ -229,7 +229,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-flower",
+          "name": "alcremie-caramelswirl-flower",
           "position": {
             "x": 1,
             "y": 505
@@ -240,7 +240,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-love",
+          "name": "alcremie-caramelswirl-love",
           "position": {
             "x": 253,
             "y": 505
@@ -251,7 +251,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-ribbon",
+          "name": "alcremie-caramelswirl-ribbon",
           "position": {
             "x": 505,
             "y": 505
@@ -262,7 +262,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-star",
+          "name": "alcremie-caramelswirl-star",
           "position": {
             "x": 757,
             "y": 505
@@ -273,7 +273,7 @@
           }
         },
         {
-          "name": "alcremie-caramel-swirl-strawberry",
+          "name": "alcremie-caramelswirl-strawberry",
           "position": {
             "x": 1009,
             "y": 505
@@ -295,7 +295,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-berry",
+          "name": "alcremie-lemoncream-berry",
           "position": {
             "x": 1513,
             "y": 505
@@ -306,7 +306,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-clover",
+          "name": "alcremie-lemoncream-clover",
           "position": {
             "x": 1765,
             "y": 505
@@ -317,7 +317,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-flower",
+          "name": "alcremie-lemoncream-flower",
           "position": {
             "x": 2017,
             "y": 505
@@ -328,7 +328,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-love",
+          "name": "alcremie-lemoncream-love",
           "position": {
             "x": 2269,
             "y": 505
@@ -339,7 +339,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-ribbon",
+          "name": "alcremie-lemoncream-ribbon",
           "position": {
             "x": 1,
             "y": 757
@@ -350,7 +350,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-star",
+          "name": "alcremie-lemoncream-star",
           "position": {
             "x": 253,
             "y": 757
@@ -361,7 +361,7 @@
           }
         },
         {
-          "name": "alcremie-lemon-cream-strawberry",
+          "name": "alcremie-lemoncream-strawberry",
           "position": {
             "x": 505,
             "y": 757
@@ -372,7 +372,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-berry",
+          "name": "alcremie-matchacream-berry",
           "position": {
             "x": 757,
             "y": 757
@@ -383,7 +383,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-clover",
+          "name": "alcremie-matchacream-clover",
           "position": {
             "x": 1009,
             "y": 757
@@ -394,7 +394,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-flower",
+          "name": "alcremie-matchacream-flower",
           "position": {
             "x": 1261,
             "y": 757
@@ -405,7 +405,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-love",
+          "name": "alcremie-matchacream-love",
           "position": {
             "x": 1513,
             "y": 757
@@ -416,7 +416,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-ribbon",
+          "name": "alcremie-matchacream-ribbon",
           "position": {
             "x": 1765,
             "y": 757
@@ -427,7 +427,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-star",
+          "name": "alcremie-matchacream-star",
           "position": {
             "x": 2017,
             "y": 757
@@ -438,7 +438,7 @@
           }
         },
         {
-          "name": "alcremie-matcha-cream-strawberry",
+          "name": "alcremie-matchacream-strawberry",
           "position": {
             "x": 2269,
             "y": 757
@@ -449,7 +449,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-berry",
+          "name": "alcremie-mintcream-berry",
           "position": {
             "x": 1,
             "y": 1009
@@ -460,7 +460,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-clover",
+          "name": "alcremie-mintcream-clover",
           "position": {
             "x": 253,
             "y": 1009
@@ -471,7 +471,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-flower",
+          "name": "alcremie-mintcream-flower",
           "position": {
             "x": 505,
             "y": 1009
@@ -482,7 +482,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-love",
+          "name": "alcremie-mintcream-love",
           "position": {
             "x": 757,
             "y": 1009
@@ -493,7 +493,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-ribbon",
+          "name": "alcremie-mintcream-ribbon",
           "position": {
             "x": 1009,
             "y": 1009
@@ -504,7 +504,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-star",
+          "name": "alcremie-mintcream-star",
           "position": {
             "x": 1261,
             "y": 1009
@@ -515,7 +515,7 @@
           }
         },
         {
-          "name": "alcremie-mint-cream-strawberry",
+          "name": "alcremie-mintcream-strawberry",
           "position": {
             "x": 1513,
             "y": 1009
@@ -526,7 +526,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-berry",
+          "name": "alcremie-rainbowswirl-berry",
           "position": {
             "x": 1765,
             "y": 1009
@@ -537,7 +537,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-clover",
+          "name": "alcremie-rainbowswirl-clover",
           "position": {
             "x": 2017,
             "y": 1009
@@ -548,7 +548,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-flower",
+          "name": "alcremie-rainbowswirl-flower",
           "position": {
             "x": 2269,
             "y": 1009
@@ -559,7 +559,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-love",
+          "name": "alcremie-rainbowswirl-love",
           "position": {
             "x": 1,
             "y": 1261
@@ -570,7 +570,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-ribbon",
+          "name": "alcremie-rainbowswirl-ribbon",
           "position": {
             "x": 253,
             "y": 1261
@@ -581,7 +581,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-star",
+          "name": "alcremie-rainbowswirl-star",
           "position": {
             "x": 505,
             "y": 1261
@@ -592,7 +592,7 @@
           }
         },
         {
-          "name": "alcremie-rainbow-swirl-strawberry",
+          "name": "alcremie-rainbowswirl-strawberry",
           "position": {
             "x": 757,
             "y": 1261
@@ -603,7 +603,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-berry",
+          "name": "alcremie-rubycream-berry",
           "position": {
             "x": 1009,
             "y": 1261
@@ -614,7 +614,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-clover",
+          "name": "alcremie-rubycream-clover",
           "position": {
             "x": 1261,
             "y": 1261
@@ -625,7 +625,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-flower",
+          "name": "alcremie-rubycream-flower",
           "position": {
             "x": 1513,
             "y": 1261
@@ -636,7 +636,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-love",
+          "name": "alcremie-rubycream-love",
           "position": {
             "x": 1765,
             "y": 1261
@@ -647,7 +647,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-ribbon",
+          "name": "alcremie-rubycream-ribbon",
           "position": {
             "x": 2017,
             "y": 1261
@@ -658,7 +658,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-star",
+          "name": "alcremie-rubycream-star",
           "position": {
             "x": 2269,
             "y": 1261
@@ -669,7 +669,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-cream-strawberry",
+          "name": "alcremie-rubycream-strawberry",
           "position": {
             "x": 1,
             "y": 1513
@@ -680,7 +680,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-berry",
+          "name": "alcremie-rubyswirl-berry",
           "position": {
             "x": 253,
             "y": 1513
@@ -691,7 +691,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-clover",
+          "name": "alcremie-rubyswirl-clover",
           "position": {
             "x": 505,
             "y": 1513
@@ -702,7 +702,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-flower",
+          "name": "alcremie-rubyswirl-flower",
           "position": {
             "x": 757,
             "y": 1513
@@ -713,7 +713,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-love",
+          "name": "alcremie-rubyswirl-love",
           "position": {
             "x": 1009,
             "y": 1513
@@ -724,7 +724,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-ribbon",
+          "name": "alcremie-rubyswirl-ribbon",
           "position": {
             "x": 1261,
             "y": 1513
@@ -735,7 +735,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-star",
+          "name": "alcremie-rubyswirl-star",
           "position": {
             "x": 1513,
             "y": 1513
@@ -746,7 +746,7 @@
           }
         },
         {
-          "name": "alcremie-ruby-swirl-strawberry",
+          "name": "alcremie-rubyswirl-strawberry",
           "position": {
             "x": 1765,
             "y": 1513
@@ -757,7 +757,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-berry",
+          "name": "alcremie-saltedcream-berry",
           "position": {
             "x": 2017,
             "y": 1513
@@ -768,7 +768,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-clover",
+          "name": "alcremie-saltedcream-clover",
           "position": {
             "x": 2269,
             "y": 1513
@@ -779,7 +779,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-flower",
+          "name": "alcremie-saltedcream-flower",
           "position": {
             "x": 1,
             "y": 1765
@@ -790,7 +790,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-love",
+          "name": "alcremie-saltedcream-love",
           "position": {
             "x": 253,
             "y": 1765
@@ -801,7 +801,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-ribbon",
+          "name": "alcremie-saltedcream-ribbon",
           "position": {
             "x": 505,
             "y": 1765
@@ -812,7 +812,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-star",
+          "name": "alcremie-saltedcream-star",
           "position": {
             "x": 757,
             "y": 1765
@@ -823,7 +823,7 @@
           }
         },
         {
-          "name": "alcremie-salted-cream-strawberry",
+          "name": "alcremie-saltedcream-strawberry",
           "position": {
             "x": 1009,
             "y": 1765
@@ -834,7 +834,7 @@
           }
         },
         {
-          "name": "alcremie-vanilla-cream-berry",
+          "name": "alcremie-vanillacream-berry",
           "position": {
             "x": 1261,
             "y": 1765
@@ -845,7 +845,7 @@
           }
         },
         {
-          "name": "alcremie-vanilla-cream-clover",
+          "name": "alcremie-vanillacream-clover",
           "position": {
             "x": 1513,
             "y": 1765
@@ -856,7 +856,7 @@
           }
         },
         {
-          "name": "alcremie-vanilla-cream-flower",
+          "name": "alcremie-vanillacream-flower",
           "position": {
             "x": 1765,
             "y": 1765
@@ -867,7 +867,7 @@
           }
         },
         {
-          "name": "alcremie-vanilla-cream-love",
+          "name": "alcremie-vanillacream-love",
           "position": {
             "x": 2017,
             "y": 1765
@@ -878,7 +878,7 @@
           }
         },
         {
-          "name": "alcremie-vanilla-cream-ribbon",
+          "name": "alcremie-vanillacream-ribbon",
           "position": {
             "x": 2269,
             "y": 1765
@@ -889,7 +889,7 @@
           }
         },
         {
-          "name": "alcremie-vanilla-cream-star",
+          "name": "alcremie-vanillacream-star",
           "position": {
             "x": 1,
             "y": 2017
@@ -1664,7 +1664,7 @@
           }
         },
         {
-          "name": "basculin-blue-striped",
+          "name": "basculin-bluestriped",
           "position": {
             "x": 1,
             "y": 1261
@@ -2758,7 +2758,7 @@
           }
         },
         {
-          "name": "charizard-mega-x",
+          "name": "charizard-megax",
           "position": {
             "x": 2269,
             "y": 1009
@@ -2769,7 +2769,7 @@
           }
         },
         {
-          "name": "charizard-mega-y",
+          "name": "charizard-megay",
           "position": {
             "x": 1,
             "y": 1261
@@ -9344,7 +9344,7 @@
           }
         },
         {
-          "name": "mewtwo-mega-x",
+          "name": "mewtwo-megax",
           "position": {
             "x": 1261,
             "y": 1009
@@ -9355,7 +9355,7 @@
           }
         },
         {
-          "name": "mewtwo-mega-y",
+          "name": "mewtwo-megay",
           "position": {
             "x": 1513,
             "y": 1009
@@ -14935,7 +14935,7 @@
           }
         },
         {
-          "name": "toxtricity-low-key-gmax",
+          "name": "toxtricity-lowkey-gmax",
           "position": {
             "x": 253,
             "y": 1261
@@ -14946,7 +14946,7 @@
           }
         },
         {
-          "name": "toxtricity-low-key",
+          "name": "toxtricity-lowkey",
           "position": {
             "x": 505,
             "y": 1261
@@ -15578,7 +15578,7 @@
           }
         },
         {
-          "name": "urshifu-rapid-strike-gmax",
+          "name": "urshifu-rapidstrike-gmax",
           "position": {
             "x": 2269,
             "y": 1
@@ -15589,7 +15589,7 @@
           }
         },
         {
-          "name": "urshifu-rapid-strike",
+          "name": "urshifu-rapidstrike",
           "position": {
             "x": 1,
             "y": 253

@@ -559,7 +559,7 @@
           }
         },
         {
-          "name": "basculin-blue-striped",
+          "name": "basculin-bluestriped",
           "position": {
             "x": 1,
             "y": 1291
@@ -581,7 +581,7 @@
           }
         },
         {
-          "name": "basculin-white-striped",
+          "name": "basculin-whitestriped",
           "position": {
             "x": 517,
             "y": 1291
@@ -2219,7 +2219,7 @@
       "image": "sprite-2580-2.webp",
       "sprites": [
         {
-          "name": "flabébé-blue",
+          "name": "flabebe-blue",
           "position": {
             "x": 1,
             "y": 1
@@ -2230,7 +2230,7 @@
           }
         },
         {
-          "name": "flabébé-orange",
+          "name": "flabebe-orange",
           "position": {
             "x": 259,
             "y": 1
@@ -2241,7 +2241,7 @@
           }
         },
         {
-          "name": "flabébé-red",
+          "name": "flabebe-red",
           "position": {
             "x": 517,
             "y": 1
@@ -2252,7 +2252,7 @@
           }
         },
         {
-          "name": "flabébé-white",
+          "name": "flabebe-white",
           "position": {
             "x": 775,
             "y": 1
@@ -2263,7 +2263,7 @@
           }
         },
         {
-          "name": "flabébé-yellow",
+          "name": "flabebe-yellow",
           "position": {
             "x": 1033,
             "y": 1
@@ -2274,7 +2274,7 @@
           }
         },
         {
-          "name": "flabébé",
+          "name": "flabebe",
           "position": {
             "x": 1291,
             "y": 1
@@ -7398,7 +7398,7 @@
           }
         },
         {
-          "name": "toxtricity-low-key",
+          "name": "toxtricity-lowkey",
           "position": {
             "x": 2323,
             "y": 1549
@@ -7552,7 +7552,7 @@
           }
         },
         {
-          "name": "urshifu-rapid-strike",
+          "name": "urshifu-rapidstrike",
           "position": {
             "x": 775,
             "y": 2065

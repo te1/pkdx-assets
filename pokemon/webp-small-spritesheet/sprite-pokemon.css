@@ -270,7 +270,7 @@
   background-image: url(sprite-pokemon-0.webp);
   background-position: 66.66666666666666% 66.66666666666666%;
 }
-.sprite-pokemon-basculin-blue-striped {
+.sprite-pokemon-basculin-bluestriped {
   background-image: url(sprite-pokemon-0.webp);
   background-position: 77.77777777777777% 66.66666666666666%;
 }
@@ -278,7 +278,7 @@
   background-image: url(sprite-pokemon-0.webp);
   background-position: 88.88888888888889% 66.66666666666666%;
 }
-.sprite-pokemon-basculin-white-striped {
+.sprite-pokemon-basculin-whitestriped {
   background-image: url(sprite-pokemon-0.webp);
   background-position: 100% 66.66666666666666%;
 }
@@ -626,11 +626,11 @@
   background-image: url(sprite-pokemon-1.webp);
   background-position: 55.55555555555556% 55.55555555555556%;
 }
-.sprite-pokemon-charizard-mega-X {
+.sprite-pokemon-charizard-megaX {
   background-image: url(sprite-pokemon-1.webp);
   background-position: 66.66666666666666% 55.55555555555556%;
 }
-.sprite-pokemon-charizard-mega-y {
+.sprite-pokemon-charizard-megay {
   background-image: url(sprite-pokemon-1.webp);
   background-position: 77.77777777777777% 55.55555555555556%;
 }
@@ -1178,7 +1178,7 @@
   background-image: url(sprite-pokemon-2.webp);
   background-position: 33.33333333333333% 100%;
 }
-.sprite-pokemon-dudunsparce-three {
+.sprite-pokemon-dudunsparce-threesegment {
   background-image: url(sprite-pokemon-2.webp);
   background-position: 44.44444444444444% 100%;
 }
@@ -4598,11 +4598,11 @@
   background-image: url(sprite-pokemon-11.webp);
   background-position: 88.88888888888889% 44.44444444444444%;
 }
-.sprite-pokemon-toxtricity-low-key-gmax {
+.sprite-pokemon-toxtricity-lowkey-gmax {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 100% 44.44444444444444%;
 }
-.sprite-pokemon-toxtricity-low-key {
+.sprite-pokemon-toxtricity-lowkey {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 55.55555555555556%;
 }
@@ -4718,11 +4718,11 @@
   background-image: url(sprite-pokemon-11.webp);
   background-position: 88.88888888888889% 77.77777777777777%;
 }
-.sprite-pokemon-urshifu-rapid-strike-gmax {
+.sprite-pokemon-urshifu-rapidstrike-gmax {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 100% 77.77777777777777%;
 }
-.sprite-pokemon-urshifu-rapid-strike {
+.sprite-pokemon-urshifu-rapidstrike {
   background-image: url(sprite-pokemon-11.webp);
   background-position: 0% 88.88888888888889%;
 }

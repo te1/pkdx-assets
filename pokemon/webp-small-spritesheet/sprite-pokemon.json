@@ -746,7 +746,7 @@
           }
         },
         {
-          "name": "basculin-blue-striped",
+          "name": "basculin-bluestriped",
           "position": {
             "x": 1765,
             "y": 1513
@@ -768,7 +768,7 @@
           }
         },
         {
-          "name": "basculin-white-striped",
+          "name": "basculin-whitestriped",
           "position": {
             "x": 2269,
             "y": 1513
@@ -1730,7 +1730,7 @@
           }
         },
         {
-          "name": "charizard-mega-X",
+          "name": "charizard-megaX",
           "position": {
             "x": 1513,
             "y": 1261
@@ -1741,7 +1741,7 @@
           }
         },
         {
-          "name": "charizard-mega-y",
+          "name": "charizard-megay",
           "position": {
             "x": 1765,
             "y": 1261
@@ -3253,7 +3253,7 @@
           }
         },
         {
-          "name": "dudunsparce-three",
+          "name": "dudunsparce-threesegment",
           "position": {
             "x": 1009,
             "y": 2269
@@ -12703,7 +12703,7 @@
           }
         },
         {
-          "name": "toxtricity-low-key-gmax",
+          "name": "toxtricity-lowkey-gmax",
           "position": {
             "x": 2269,
             "y": 1009
@@ -12714,7 +12714,7 @@
           }
         },
         {
-          "name": "toxtricity-low-key",
+          "name": "toxtricity-lowkey",
           "position": {
             "x": 1,
             "y": 1261
@@ -13033,7 +13033,7 @@
           }
         },
         {
-          "name": "urshifu-rapid-strike-gmax",
+          "name": "urshifu-rapidstrike-gmax",
           "position": {
             "x": 2269,
             "y": 1765
@@ -13044,7 +13044,7 @@
           }
         },
         {
-          "name": "urshifu-rapid-strike",
+          "name": "urshifu-rapidstrike",
           "position": {
             "x": 1,
             "y": 2017
