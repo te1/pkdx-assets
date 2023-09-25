@@ -1806,7 +1806,7 @@
   background-image: url(sprite-pokemon-4.webp);
   background-position: 0% 55.55555555555556%;
 }
-.sprite-pokemon-oinkologne-m {
+.sprite-pokemon-oinkologne {
   background-image: url(sprite-pokemon-4.webp);
   background-position: 11.11111111111111% 55.55555555555556%;
 }
@@ -1818,19 +1818,19 @@
   background-image: url(sprite-pokemon-4.webp);
   background-position: 33.33333333333333% 55.55555555555556%;
 }
-.sprite-pokemon-oricorio-baile {
+.sprite-pokemon-oricorio-pau {
   background-image: url(sprite-pokemon-4.webp);
   background-position: 44.44444444444444% 55.55555555555556%;
 }
-.sprite-pokemon-oricorio-pau {
+.sprite-pokemon-oricorio-pompom {
   background-image: url(sprite-pokemon-4.webp);
   background-position: 55.55555555555556% 55.55555555555556%;
 }
-.sprite-pokemon-oricorio-pom-pom {
+.sprite-pokemon-oricorio-sensu {
   background-image: url(sprite-pokemon-4.webp);
   background-position: 66.66666666666666% 55.55555555555556%;
 }
-.sprite-pokemon-oricorio-sensu {
+.sprite-pokemon-oricorio {
   background-image: url(sprite-pokemon-4.webp);
   background-position: 77.77777777777777% 55.55555555555556%;
 }
@@ -2586,15 +2586,15 @@
   background-image: url(sprite-pokemon-6.webp);
   background-position: 55.55555555555556% 44.44444444444444%;
 }
-.sprite-pokemon-tauros-paldea1 {
+.sprite-pokemon-tauros-paldea-aqua {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 66.66666666666666% 44.44444444444444%;
 }
-.sprite-pokemon-tauros-paldea2 {
+.sprite-pokemon-tauros-paldea-blaze {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 77.77777777777777% 44.44444444444444%;
 }
-.sprite-pokemon-tauros-paldea3 {
+.sprite-pokemon-tauros-paldea-combat {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 88.88888888888889% 44.44444444444444%;
 }
@@ -2734,295 +2734,299 @@
   background-image: url(sprite-pokemon-6.webp);
   background-position: 22.22222222222222% 88.88888888888889%;
 }
-.sprite-pokemon-urshifu {
+.sprite-pokemon-urshifu-rapid-strike {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 33.33333333333333% 88.88888888888889%;
 }
-.sprite-pokemon-uxie {
+.sprite-pokemon-urshifu {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 44.44444444444444% 88.88888888888889%;
 }
-.sprite-pokemon-vaporeon {
+.sprite-pokemon-uxie {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 55.55555555555556% 88.88888888888889%;
 }
-.sprite-pokemon-varoom {
+.sprite-pokemon-vaporeon {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 66.66666666666666% 88.88888888888889%;
 }
-.sprite-pokemon-veluza {
+.sprite-pokemon-varoom {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 77.77777777777777% 88.88888888888889%;
 }
-.sprite-pokemon-venomoth {
+.sprite-pokemon-veluza {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 88.88888888888889% 88.88888888888889%;
 }
-.sprite-pokemon-venonat {
+.sprite-pokemon-venomoth {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 100% 88.88888888888889%;
 }
-.sprite-pokemon-vespiquen {
+.sprite-pokemon-venonat {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 0% 100%;
 }
-.sprite-pokemon-victreebel {
+.sprite-pokemon-vespiquen {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 11.11111111111111% 100%;
 }
-.sprite-pokemon-vigoroth {
+.sprite-pokemon-victreebel {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 22.22222222222222% 100%;
 }
-.sprite-pokemon-vikavolt {
+.sprite-pokemon-vigoroth {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 33.33333333333333% 100%;
 }
-.sprite-pokemon-vivillon-archipelago {
+.sprite-pokemon-vikavolt {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 44.44444444444444% 100%;
 }
-.sprite-pokemon-vivillon-continental {
+.sprite-pokemon-vivillon-archipelago {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 55.55555555555556% 100%;
 }
-.sprite-pokemon-vivillon-elegant {
+.sprite-pokemon-vivillon-continental {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 66.66666666666666% 100%;
 }
-.sprite-pokemon-vivillon-fancy {
+.sprite-pokemon-vivillon-elegant {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 77.77777777777777% 100%;
 }
-.sprite-pokemon-vivillon-garden {
+.sprite-pokemon-vivillon-fancy {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 88.88888888888889% 100%;
 }
-.sprite-pokemon-vivillon-highplains {
+.sprite-pokemon-vivillon-garden {
   background-image: url(sprite-pokemon-6.webp);
   background-position: 100% 100%;
 }
-.sprite-pokemon-vivillon-icysnow {
+.sprite-pokemon-vivillon-highplains {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 0% 0%;
 }
-.sprite-pokemon-vivillon-jungle {
+.sprite-pokemon-vivillon-icysnow {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 11.11111111111111% 0%;
 }
-.sprite-pokemon-vivillon-maedow {
+.sprite-pokemon-vivillon-jungle {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 22.22222222222222% 0%;
 }
-.sprite-pokemon-vivillon-marine {
+.sprite-pokemon-vivillon-maedow {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 33.33333333333333% 0%;
 }
-.sprite-pokemon-vivillon-modern {
+.sprite-pokemon-vivillon-marine {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 44.44444444444444% 0%;
 }
-.sprite-pokemon-vivillon-monsoon {
+.sprite-pokemon-vivillon-modern {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 55.55555555555556% 0%;
 }
-.sprite-pokemon-vivillon-ocean {
+.sprite-pokemon-vivillon-monsoon {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 66.66666666666666% 0%;
 }
-.sprite-pokemon-vivillon-pokeball {
+.sprite-pokemon-vivillon-ocean {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 77.77777777777777% 0%;
 }
-.sprite-pokemon-vivillon-polar {
+.sprite-pokemon-vivillon-pokeball {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 88.88888888888889% 0%;
 }
-.sprite-pokemon-vivillon-river {
+.sprite-pokemon-vivillon-polar {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 100% 0%;
 }
-.sprite-pokemon-vivillon-sandstorm {
+.sprite-pokemon-vivillon-river {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 0% 11.11111111111111%;
 }
-.sprite-pokemon-vivillon-savanna {
+.sprite-pokemon-vivillon-sandstorm {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 11.11111111111111% 11.11111111111111%;
 }
-.sprite-pokemon-vivillon-sun {
+.sprite-pokemon-vivillon-savanna {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 22.22222222222222% 11.11111111111111%;
 }
-.sprite-pokemon-vivillon-tundra {
+.sprite-pokemon-vivillon-sun {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 33.33333333333333% 11.11111111111111%;
 }
-.sprite-pokemon-vivillon {
+.sprite-pokemon-vivillon-tundra {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 44.44444444444444% 11.11111111111111%;
 }
-.sprite-pokemon-volbeat {
+.sprite-pokemon-vivillon {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 55.55555555555556% 11.11111111111111%;
 }
-.sprite-pokemon-volcanion {
+.sprite-pokemon-volbeat {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 66.66666666666666% 11.11111111111111%;
 }
-.sprite-pokemon-volcarona {
+.sprite-pokemon-volcanion {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 77.77777777777777% 11.11111111111111%;
 }
-.sprite-pokemon-voltorb-hisui {
+.sprite-pokemon-volcarona {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 88.88888888888889% 11.11111111111111%;
 }
-.sprite-pokemon-voltorb {
+.sprite-pokemon-voltorb-hisui {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 100% 11.11111111111111%;
 }
-.sprite-pokemon-vullaby {
+.sprite-pokemon-voltorb {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 0% 22.22222222222222%;
 }
-.sprite-pokemon-vulpix-alola {
+.sprite-pokemon-vullaby {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 11.11111111111111% 22.22222222222222%;
 }
-.sprite-pokemon-vulpix {
+.sprite-pokemon-vulpix-alola {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 22.22222222222222% 22.22222222222222%;
 }
-.sprite-pokemon-walkingwake {
+.sprite-pokemon-vulpix {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 33.33333333333333% 22.22222222222222%;
 }
-.sprite-pokemon-wattrel {
+.sprite-pokemon-walkingwake {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 44.44444444444444% 22.22222222222222%;
 }
-.sprite-pokemon-weavile {
+.sprite-pokemon-wattrel {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 55.55555555555556% 22.22222222222222%;
 }
-.sprite-pokemon-weepinbell {
+.sprite-pokemon-weavile {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 66.66666666666666% 22.22222222222222%;
 }
-.sprite-pokemon-weezing-galar {
+.sprite-pokemon-weepinbell {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 77.77777777777777% 22.22222222222222%;
 }
-.sprite-pokemon-weezing {
+.sprite-pokemon-weezing-galar {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 88.88888888888889% 22.22222222222222%;
 }
-.sprite-pokemon-whiscash {
+.sprite-pokemon-weezing {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 100% 22.22222222222222%;
 }
-.sprite-pokemon-wigglytuff {
+.sprite-pokemon-whiscash {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 0% 33.33333333333333%;
 }
-.sprite-pokemon-wiglett {
+.sprite-pokemon-wigglytuff {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 11.11111111111111% 33.33333333333333%;
 }
-.sprite-pokemon-wingull {
+.sprite-pokemon-wiglett {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 22.22222222222222% 33.33333333333333%;
 }
-.sprite-pokemon-wobbuffet {
+.sprite-pokemon-wingull {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 33.33333333333333% 33.33333333333333%;
 }
-.sprite-pokemon-wochien {
+.sprite-pokemon-wobbuffet {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 44.44444444444444% 33.33333333333333%;
 }
-.sprite-pokemon-wooper-paldea {
+.sprite-pokemon-wochien {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 55.55555555555556% 33.33333333333333%;
 }
-.sprite-pokemon-wooper {
+.sprite-pokemon-wooper-paldea {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 66.66666666666666% 33.33333333333333%;
 }
-.sprite-pokemon-wugtrio {
+.sprite-pokemon-wooper {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 77.77777777777777% 33.33333333333333%;
 }
-.sprite-pokemon-wyrdeer {
+.sprite-pokemon-wugtrio {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 88.88888888888889% 33.33333333333333%;
 }
-.sprite-pokemon-yanma {
+.sprite-pokemon-wyrdeer {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 100% 33.33333333333333%;
 }
-.sprite-pokemon-yanmega {
+.sprite-pokemon-yanma {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 0% 44.44444444444444%;
 }
-.sprite-pokemon-yungoos {
+.sprite-pokemon-yanmega {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 11.11111111111111% 44.44444444444444%;
 }
-.sprite-pokemon-zacian-crowned {
+.sprite-pokemon-yungoos {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 22.22222222222222% 44.44444444444444%;
 }
-.sprite-pokemon-zacian {
+.sprite-pokemon-zacian-crowned {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 33.33333333333333% 44.44444444444444%;
 }
-.sprite-pokemon-zamazenta-crowned {
+.sprite-pokemon-zacian {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 44.44444444444444% 44.44444444444444%;
 }
-.sprite-pokemon-zamazenta {
+.sprite-pokemon-zamazenta-crowned {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 55.55555555555556% 44.44444444444444%;
 }
-.sprite-pokemon-zangoose {
+.sprite-pokemon-zamazenta {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 66.66666666666666% 44.44444444444444%;
 }
-.sprite-pokemon-zapdos-galar {
+.sprite-pokemon-zangoose {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 77.77777777777777% 44.44444444444444%;
 }
-.sprite-pokemon-zapdos {
+.sprite-pokemon-zapdos-galar {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 88.88888888888889% 44.44444444444444%;
 }
-.sprite-pokemon-zarude-dada {
+.sprite-pokemon-zapdos {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 100% 44.44444444444444%;
 }
-.sprite-pokemon-zarude {
+.sprite-pokemon-zarude-dada {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 0% 55.55555555555556%;
 }
-.sprite-pokemon-zoroark-hisui {
+.sprite-pokemon-zarude {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 11.11111111111111% 55.55555555555556%;
 }
-.sprite-pokemon-zoroark {
+.sprite-pokemon-zoroark-hisui {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 22.22222222222222% 55.55555555555556%;
 }
-.sprite-pokemon-zorua-hisui {
+.sprite-pokemon-zoroark {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 33.33333333333333% 55.55555555555556%;
 }
-.sprite-pokemon-zorua {
+.sprite-pokemon-zorua-hisui {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 44.44444444444444% 55.55555555555556%;
 }
-.sprite-pokemon-zweilous {
+.sprite-pokemon-zorua {
   background-image: url(sprite-pokemon-7.webp);
   background-position: 55.55555555555556% 55.55555555555556%;
+}
+.sprite-pokemon-zweilous {
+  background-image: url(sprite-pokemon-7.webp);
+  background-position: 66.66666666666666% 55.55555555555556%;
 }

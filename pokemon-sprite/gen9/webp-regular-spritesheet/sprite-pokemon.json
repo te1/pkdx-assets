@@ -4990,7 +4990,7 @@
           }
         },
         {
-          "name": "oinkologne-m",
+          "name": "oinkologne",
           "position": {
             "x": 259,
             "y": 1291
@@ -5023,7 +5023,7 @@
           }
         },
         {
-          "name": "oricorio-baile",
+          "name": "oricorio-pau",
           "position": {
             "x": 1033,
             "y": 1291
@@ -5034,7 +5034,7 @@
           }
         },
         {
-          "name": "oricorio-pau",
+          "name": "oricorio-pompom",
           "position": {
             "x": 1291,
             "y": 1291
@@ -5045,7 +5045,7 @@
           }
         },
         {
-          "name": "oricorio-pom-pom",
+          "name": "oricorio-sensu",
           "position": {
             "x": 1549,
             "y": 1291
@@ -5056,7 +5056,7 @@
           }
         },
         {
-          "name": "oricorio-sensu",
+          "name": "oricorio",
           "position": {
             "x": 1807,
             "y": 1291
@@ -7145,7 +7145,7 @@
           }
         },
         {
-          "name": "tauros-paldea1",
+          "name": "tauros-paldea-aqua",
           "position": {
             "x": 1549,
             "y": 1033
@@ -7156,7 +7156,7 @@
           }
         },
         {
-          "name": "tauros-paldea2",
+          "name": "tauros-paldea-blaze",
           "position": {
             "x": 1807,
             "y": 1033
@@ -7167,7 +7167,7 @@
           }
         },
         {
-          "name": "tauros-paldea3",
+          "name": "tauros-paldea-combat",
           "position": {
             "x": 2065,
             "y": 1033
@@ -7552,9 +7552,20 @@
           }
         },
         {
-          "name": "urshifu",
+          "name": "urshifu-rapid-strike",
           "position": {
             "x": 775,
+            "y": 2065
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "urshifu",
+          "position": {
+            "x": 1033,
             "y": 2065
           },
           "dimension": {
@@ -7565,7 +7576,7 @@
         {
           "name": "uxie",
           "position": {
-            "x": 1033,
+            "x": 1291,
             "y": 2065
           },
           "dimension": {
@@ -7576,7 +7587,7 @@
         {
           "name": "vaporeon",
           "position": {
-            "x": 1291,
+            "x": 1549,
             "y": 2065
           },
           "dimension": {
@@ -7587,7 +7598,7 @@
         {
           "name": "varoom",
           "position": {
-            "x": 1549,
+            "x": 1807,
             "y": 2065
           },
           "dimension": {
@@ -7598,7 +7609,7 @@
         {
           "name": "veluza",
           "position": {
-            "x": 1807,
+            "x": 2065,
             "y": 2065
           },
           "dimension": {
@@ -7609,7 +7620,7 @@
         {
           "name": "venomoth",
           "position": {
-            "x": 2065,
+            "x": 2323,
             "y": 2065
           },
           "dimension": {
@@ -7620,17 +7631,6 @@
         {
           "name": "venonat",
           "position": {
-            "x": 2323,
-            "y": 2065
-          },
-          "dimension": {
-            "w": 256,
-            "h": 256
-          }
-        },
-        {
-          "name": "vespiquen",
-          "position": {
             "x": 1,
             "y": 2323
           },
@@ -7640,7 +7640,7 @@
           }
         },
         {
-          "name": "victreebel",
+          "name": "vespiquen",
           "position": {
             "x": 259,
             "y": 2323
@@ -7651,7 +7651,7 @@
           }
         },
         {
-          "name": "vigoroth",
+          "name": "victreebel",
           "position": {
             "x": 517,
             "y": 2323
@@ -7662,7 +7662,7 @@
           }
         },
         {
-          "name": "vikavolt",
+          "name": "vigoroth",
           "position": {
             "x": 775,
             "y": 2323
@@ -7673,7 +7673,7 @@
           }
         },
         {
-          "name": "vivillon-archipelago",
+          "name": "vikavolt",
           "position": {
             "x": 1033,
             "y": 2323
@@ -7684,7 +7684,7 @@
           }
         },
         {
-          "name": "vivillon-continental",
+          "name": "vivillon-archipelago",
           "position": {
             "x": 1291,
             "y": 2323
@@ -7695,7 +7695,7 @@
           }
         },
         {
-          "name": "vivillon-elegant",
+          "name": "vivillon-continental",
           "position": {
             "x": 1549,
             "y": 2323
@@ -7706,7 +7706,7 @@
           }
         },
         {
-          "name": "vivillon-fancy",
+          "name": "vivillon-elegant",
           "position": {
             "x": 1807,
             "y": 2323
@@ -7717,7 +7717,7 @@
           }
         },
         {
-          "name": "vivillon-garden",
+          "name": "vivillon-fancy",
           "position": {
             "x": 2065,
             "y": 2323
@@ -7728,7 +7728,7 @@
           }
         },
         {
-          "name": "vivillon-highplains",
+          "name": "vivillon-garden",
           "position": {
             "x": 2323,
             "y": 2323
@@ -7744,9 +7744,20 @@
       "image": "sprite-2580-7.webp",
       "sprites": [
         {
-          "name": "vivillon-icysnow",
+          "name": "vivillon-highplains",
           "position": {
             "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "vivillon-icysnow",
+          "position": {
+            "x": 259,
             "y": 1
           },
           "dimension": {
@@ -7757,7 +7768,7 @@
         {
           "name": "vivillon-jungle",
           "position": {
-            "x": 259,
+            "x": 517,
             "y": 1
           },
           "dimension": {
@@ -7768,7 +7779,7 @@
         {
           "name": "vivillon-maedow",
           "position": {
-            "x": 517,
+            "x": 775,
             "y": 1
           },
           "dimension": {
@@ -7779,7 +7790,7 @@
         {
           "name": "vivillon-marine",
           "position": {
-            "x": 775,
+            "x": 1033,
             "y": 1
           },
           "dimension": {
@@ -7790,7 +7801,7 @@
         {
           "name": "vivillon-modern",
           "position": {
-            "x": 1033,
+            "x": 1291,
             "y": 1
           },
           "dimension": {
@@ -7801,7 +7812,7 @@
         {
           "name": "vivillon-monsoon",
           "position": {
-            "x": 1291,
+            "x": 1549,
             "y": 1
           },
           "dimension": {
@@ -7812,7 +7823,7 @@
         {
           "name": "vivillon-ocean",
           "position": {
-            "x": 1549,
+            "x": 1807,
             "y": 1
           },
           "dimension": {
@@ -7823,7 +7834,7 @@
         {
           "name": "vivillon-pokeball",
           "position": {
-            "x": 1807,
+            "x": 2065,
             "y": 1
           },
           "dimension": {
@@ -7834,7 +7845,7 @@
         {
           "name": "vivillon-polar",
           "position": {
-            "x": 2065,
+            "x": 2323,
             "y": 1
           },
           "dimension": {
@@ -7845,8 +7856,8 @@
         {
           "name": "vivillon-river",
           "position": {
-            "x": 2323,
-            "y": 1
+            "x": 1,
+            "y": 259
           },
           "dimension": {
             "w": 256,
@@ -7856,7 +7867,7 @@
         {
           "name": "vivillon-sandstorm",
           "position": {
-            "x": 1,
+            "x": 259,
             "y": 259
           },
           "dimension": {
@@ -7867,7 +7878,7 @@
         {
           "name": "vivillon-savanna",
           "position": {
-            "x": 259,
+            "x": 517,
             "y": 259
           },
           "dimension": {
@@ -7878,7 +7889,7 @@
         {
           "name": "vivillon-sun",
           "position": {
-            "x": 517,
+            "x": 775,
             "y": 259
           },
           "dimension": {
@@ -7889,7 +7900,7 @@
         {
           "name": "vivillon-tundra",
           "position": {
-            "x": 775,
+            "x": 1033,
             "y": 259
           },
           "dimension": {
@@ -7900,7 +7911,7 @@
         {
           "name": "vivillon",
           "position": {
-            "x": 1033,
+            "x": 1291,
             "y": 259
           },
           "dimension": {
@@ -7911,7 +7922,7 @@
         {
           "name": "volbeat",
           "position": {
-            "x": 1291,
+            "x": 1549,
             "y": 259
           },
           "dimension": {
@@ -7922,7 +7933,7 @@
         {
           "name": "volcanion",
           "position": {
-            "x": 1549,
+            "x": 1807,
             "y": 259
           },
           "dimension": {
@@ -7933,7 +7944,7 @@
         {
           "name": "volcarona",
           "position": {
-            "x": 1807,
+            "x": 2065,
             "y": 259
           },
           "dimension": {
@@ -7944,7 +7955,7 @@
         {
           "name": "voltorb-hisui",
           "position": {
-            "x": 2065,
+            "x": 2323,
             "y": 259
           },
           "dimension": {
@@ -7955,8 +7966,8 @@
         {
           "name": "voltorb",
           "position": {
-            "x": 2323,
-            "y": 259
+            "x": 1,
+            "y": 517
           },
           "dimension": {
             "w": 256,
@@ -7966,7 +7977,7 @@
         {
           "name": "vullaby",
           "position": {
-            "x": 1,
+            "x": 259,
             "y": 517
           },
           "dimension": {
@@ -7977,7 +7988,7 @@
         {
           "name": "vulpix-alola",
           "position": {
-            "x": 259,
+            "x": 517,
             "y": 517
           },
           "dimension": {
@@ -7988,7 +7999,7 @@
         {
           "name": "vulpix",
           "position": {
-            "x": 517,
+            "x": 775,
             "y": 517
           },
           "dimension": {
@@ -7999,7 +8010,7 @@
         {
           "name": "walkingwake",
           "position": {
-            "x": 775,
+            "x": 1033,
             "y": 517
           },
           "dimension": {
@@ -8010,7 +8021,7 @@
         {
           "name": "wattrel",
           "position": {
-            "x": 1033,
+            "x": 1291,
             "y": 517
           },
           "dimension": {
@@ -8021,7 +8032,7 @@
         {
           "name": "weavile",
           "position": {
-            "x": 1291,
+            "x": 1549,
             "y": 517
           },
           "dimension": {
@@ -8032,7 +8043,7 @@
         {
           "name": "weepinbell",
           "position": {
-            "x": 1549,
+            "x": 1807,
             "y": 517
           },
           "dimension": {
@@ -8043,7 +8054,7 @@
         {
           "name": "weezing-galar",
           "position": {
-            "x": 1807,
+            "x": 2065,
             "y": 517
           },
           "dimension": {
@@ -8054,7 +8065,7 @@
         {
           "name": "weezing",
           "position": {
-            "x": 2065,
+            "x": 2323,
             "y": 517
           },
           "dimension": {
@@ -8065,8 +8076,8 @@
         {
           "name": "whiscash",
           "position": {
-            "x": 2323,
-            "y": 517
+            "x": 1,
+            "y": 775
           },
           "dimension": {
             "w": 256,
@@ -8076,7 +8087,7 @@
         {
           "name": "wigglytuff",
           "position": {
-            "x": 1,
+            "x": 259,
             "y": 775
           },
           "dimension": {
@@ -8087,7 +8098,7 @@
         {
           "name": "wiglett",
           "position": {
-            "x": 259,
+            "x": 517,
             "y": 775
           },
           "dimension": {
@@ -8098,7 +8109,7 @@
         {
           "name": "wingull",
           "position": {
-            "x": 517,
+            "x": 775,
             "y": 775
           },
           "dimension": {
@@ -8109,7 +8120,7 @@
         {
           "name": "wobbuffet",
           "position": {
-            "x": 775,
+            "x": 1033,
             "y": 775
           },
           "dimension": {
@@ -8120,7 +8131,7 @@
         {
           "name": "wochien",
           "position": {
-            "x": 1033,
+            "x": 1291,
             "y": 775
           },
           "dimension": {
@@ -8131,7 +8142,7 @@
         {
           "name": "wooper-paldea",
           "position": {
-            "x": 1291,
+            "x": 1549,
             "y": 775
           },
           "dimension": {
@@ -8142,7 +8153,7 @@
         {
           "name": "wooper",
           "position": {
-            "x": 1549,
+            "x": 1807,
             "y": 775
           },
           "dimension": {
@@ -8153,7 +8164,7 @@
         {
           "name": "wugtrio",
           "position": {
-            "x": 1807,
+            "x": 2065,
             "y": 775
           },
           "dimension": {
@@ -8164,7 +8175,7 @@
         {
           "name": "wyrdeer",
           "position": {
-            "x": 2065,
+            "x": 2323,
             "y": 775
           },
           "dimension": {
@@ -8175,8 +8186,8 @@
         {
           "name": "yanma",
           "position": {
-            "x": 2323,
-            "y": 775
+            "x": 1,
+            "y": 1033
           },
           "dimension": {
             "w": 256,
@@ -8186,7 +8197,7 @@
         {
           "name": "yanmega",
           "position": {
-            "x": 1,
+            "x": 259,
             "y": 1033
           },
           "dimension": {
@@ -8197,7 +8208,7 @@
         {
           "name": "yungoos",
           "position": {
-            "x": 259,
+            "x": 517,
             "y": 1033
           },
           "dimension": {
@@ -8208,7 +8219,7 @@
         {
           "name": "zacian-crowned",
           "position": {
-            "x": 517,
+            "x": 775,
             "y": 1033
           },
           "dimension": {
@@ -8219,7 +8230,7 @@
         {
           "name": "zacian",
           "position": {
-            "x": 775,
+            "x": 1033,
             "y": 1033
           },
           "dimension": {
@@ -8230,7 +8241,7 @@
         {
           "name": "zamazenta-crowned",
           "position": {
-            "x": 1033,
+            "x": 1291,
             "y": 1033
           },
           "dimension": {
@@ -8241,7 +8252,7 @@
         {
           "name": "zamazenta",
           "position": {
-            "x": 1291,
+            "x": 1549,
             "y": 1033
           },
           "dimension": {
@@ -8252,7 +8263,7 @@
         {
           "name": "zangoose",
           "position": {
-            "x": 1549,
+            "x": 1807,
             "y": 1033
           },
           "dimension": {
@@ -8263,7 +8274,7 @@
         {
           "name": "zapdos-galar",
           "position": {
-            "x": 1807,
+            "x": 2065,
             "y": 1033
           },
           "dimension": {
@@ -8274,7 +8285,7 @@
         {
           "name": "zapdos",
           "position": {
-            "x": 2065,
+            "x": 2323,
             "y": 1033
           },
           "dimension": {
@@ -8285,17 +8296,6 @@
         {
           "name": "zarude-dada",
           "position": {
-            "x": 2323,
-            "y": 1033
-          },
-          "dimension": {
-            "w": 256,
-            "h": 256
-          }
-        },
-        {
-          "name": "zarude",
-          "position": {
             "x": 1,
             "y": 1291
           },
@@ -8305,7 +8305,7 @@
           }
         },
         {
-          "name": "zoroark-hisui",
+          "name": "zarude",
           "position": {
             "x": 259,
             "y": 1291
@@ -8316,7 +8316,7 @@
           }
         },
         {
-          "name": "zoroark",
+          "name": "zoroark-hisui",
           "position": {
             "x": 517,
             "y": 1291
@@ -8327,7 +8327,7 @@
           }
         },
         {
-          "name": "zorua-hisui",
+          "name": "zoroark",
           "position": {
             "x": 775,
             "y": 1291
@@ -8338,7 +8338,7 @@
           }
         },
         {
-          "name": "zorua",
+          "name": "zorua-hisui",
           "position": {
             "x": 1033,
             "y": 1291
@@ -8349,9 +8349,20 @@
           }
         },
         {
-          "name": "zweilous",
+          "name": "zorua",
           "position": {
             "x": 1291,
+            "y": 1291
+          },
+          "dimension": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "name": "zweilous",
+          "position": {
+            "x": 1549,
             "y": 1291
           },
           "dimension": {
